@@ -1,0 +1,23 @@
+/*
+Theme Name: Divi
+
+
+Description: Divi Child Theme
+
+
+Author: Alina Dasevica
+
+
+Template: Divi
+
+*/ 
+
+body {
+    line-height: 2.3em;
+    color: #0a0a0a;
+}
+#top-menu li a:hover{
+text-decoration: underline;
+    
+}
+
